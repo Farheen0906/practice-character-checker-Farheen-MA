@@ -1,0 +1,3 @@
+let displayMessage = 'To-Do List:\n- Task Status\n- Clean
+Done\n- Code In Progress\n- Relax Pending';
+console.log(displayMessage);
